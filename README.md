@@ -8,16 +8,14 @@
 - Pandas
 - Matplotlib
 - Re
-# Установка
-Для установки всех необходимых зависимостей, выполните следующую команду:
 
-	pip install -r requirements.txt
 
 # Данные
 Данные, используемые для обучения модели, можно найти по ссылке ниже.
 
-[![Open]([https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Google_Drive_icon_%282020%29.svg/512px-Google_Drive_icon_%282020%29.svg.png?20221103153031](https://cdn-icons-png.flaticon.com/128/5968/5968523.png))](https://drive.google.com/drive/folders/1XXU66O306ahuMs_X1LQZYSa9kcKU8lS4?usp=sharing)
+[Google Drive](https://drive.google.com/drive/folders/1XXU66O306ahuMs_X1LQZYSa9kcKU8lS4?usp=share_link)			[![Google_Drive_icon_(2020) (1)](https://user-images.githubusercontent.com/118125931/216775668-dd2e04ed-c06d-4c8e-b186-0e92789c98a3.png)](https://drive.google.com/drive/folders/1XXU66O306ahuMs_X1LQZYSa9kcKU8lS4?usp=share_link)
 
 
 # Запуск в Google Colab    
-[![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg](https://cdn-icons-png.flaticon.com/128/5968/5968523.png))](https://colab.research.google.com/drive/15-pyYA7s5otpZVf3BbaMENnXBYkvHcN1?usp=sharing)
+[Google Colab](https://colab.research.google.com/drive/15-pyYA7s5otpZVf3BbaMENnXBYkvHcN1?usp=sharing)			[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15-pyYA7s5otpZVf3BbaMENnXBYkvHcN1?usp=sharing)
+

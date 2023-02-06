@@ -17,5 +17,5 @@
 
 
 # Запуск в Google Colab    
-[Google Colab](https://colab.research.google.com/drive/15-pyYA7s5otpZVf3BbaMENnXBYkvHcN1?usp=sharing)			[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15-pyYA7s5otpZVf3BbaMENnXBYkvHcN1?usp=sharing)
+[Google Colab](https://colab.research.google.com/drive/1Ub85D7cn5QF0ppXz5aHVUdW9LAMNHCOk?usp=sharing)			[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Ub85D7cn5QF0ppXz5aHVUdW9LAMNHCOk?usp=sharing)
 
